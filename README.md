@@ -1,7 +1,7 @@
-# Lab11Web
-# JIHAN HABIBAH
+# Labweb11-12-13-14
+# DHEA APISCA
 # TI 19 B2
-# 311910094
+# 311910755
 
 # 1. Mengintals extension secara menual menggunakan xampp.![image](https://user-images.githubusercontent.com/81579730/121798714-0a78b700-cc52-11eb-8056-193908493953.png)
 ![image](https://user-images.githubusercontent.com/81579730/121798738-267c5880-cc52-11eb-9ca9-ee2bccb95162.png)
